@@ -1,0 +1,8 @@
+[package]
+name = "mapred"
+version = "0.1.0"
+authors = ["Jordan Poles <jpoles1@gmail.com>"]
+
+[dependencies]
+num_cpus = "*"
+threadpool = "*"
